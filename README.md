@@ -1,2 +1,2 @@
 # CNN-Autoencode
-執行CNN encode.ipynb
+執行CNN decode.ipynb
